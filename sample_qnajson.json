@@ -1,0 +1,20 @@
+{
+  "pairs": [
+    {
+      "questions": ["hi", "hai", "hello"],
+      "answer": "hey"
+    },
+	{
+	  "questions": ["About joining date postponement or advancement process", "change joining date", "prepone joining date"],
+      "answer": "Request you to send an email with reasons to the email address Chennai.AstraZeneca@astrazeneca.com and get the confirmation for postponement or Advancement"
+	},
+	{
+	  "questions": ["Venue"],
+      "answer": "Date: As per the joining date mentioned in Offer letter. Time: 9 AM. Location: 11th Floor, Ramanujan IT City, Rajiv Gandhi Salai(OMR), Taramani, Chennai-600113"
+	},
+	{
+	  "questions": ["Documents needed on joining date", "Required documents"],
+      "answer": "ID Proof: PAN card / Voter ID / Aadhar card (Original and 1 photo copy) - Mandatory. Passport size photograph : 2 Nos – Mandatory. Original passport to be carried"
+	}
+  ]
+}
